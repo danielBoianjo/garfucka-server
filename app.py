@@ -1,5 +1,6 @@
 from typing import NoReturn, Union
 from flask import request, abort, Flask
+from flask.json import jsonify
 from flask_cors import CORS, cross_origin
 
 
@@ -24,4 +25,4 @@ def getAnswer() -> Union[str, NoReturn]:
 
 def do_the_logic(data: str) -> str:
     print(data)
-    return data
+    return jsonify(data)
