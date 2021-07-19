@@ -15,6 +15,7 @@ cycler==0.10.0
 decorator==4.4.2
 flake8==3.8.3
 Flask==2.0.1
+Flask-Cors==3.0.10
 future==0.18.2
 gast==0.3.3
 gitdb==4.0.5
