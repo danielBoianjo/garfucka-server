@@ -79,7 +79,6 @@ responses==0.13.3
 rouge-score==0.0.4
 sacremoses==0.0.45
 scikit-learn==0.23.1
-scipy==1.4.1
 sendgrid==6.6.0
 shellescape==3.8.1
 six==1.15.0
