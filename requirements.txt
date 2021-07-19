@@ -66,7 +66,6 @@ qsharp==0.12.2007.124
 requests==2.24.0
 requests-oauthlib==1.3.0
 responses==0.13.3
-scikit-learn==0.23.1
 sendgrid==6.6.0
 shellescape==3.8.1
 six==1.15.0
